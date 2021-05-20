@@ -1,0 +1,3 @@
+export const GET_ORDERS = 'GET_ORDERS'
+export const DUPLICATE_ORDER = 'DUPLICATE_ORDER'
+export const REMOVE_ORDERS = 'REMOVE_ORDERS'
